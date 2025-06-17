@@ -1,2 +1,2 @@
 # MonteDarloSim
-Experiment of Monte Carlo simulation to professional football 
+Experiment of Monte Carlo simulation to professional sport 
